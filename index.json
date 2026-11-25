@@ -8,11 +8,13 @@
       "description": "爱看机器人全网聚合，多线路可切换",
       "api": 1,
       "adult": false,
-      "repo": "",
+      "repo": "mario2077/YSLINK",
       "tag": "main",
       "path": "duoxian-yingshi",
       "zip": "duoxian-yingshi-v1.0.0.zip",
-      "updatedAt": "2026-11-25T12:50:29.054Z"
+      "updatedAt": "2026-11-25T12:50:29.054Z",
+      "raw": "https://raw.githubusercontent.com/mario2077/YSLINK/main/duoxian-yingshi-v1.0.0.zip",
+      "cdn": "https://cdn.jsdelivr.net/gh/mario2077/YSLINK@main/duoxian-yingshi-v1.0.0.zip"
     },
     {
       "id": "yingshi-juhe",
@@ -21,11 +23,13 @@
       "description": "9 站采集互备：国产剧/综艺/TVB/美剧/动漫",
       "api": 1,
       "adult": false,
-      "repo": "",
+      "repo": "mario2077/YSLINK",
       "tag": "main",
       "path": "yingshi-juhe",
       "zip": "yingshi-juhe-v1.0.0.zip",
-      "updatedAt": "2026-11-25T12:50:29.054Z"
+      "updatedAt": "2026-11-25T12:50:29.054Z",
+      "raw": "https://raw.githubusercontent.com/mario2077/YSLINK/main/yingshi-juhe-v1.0.0.zip",
+      "cdn": "https://cdn.jsdelivr.net/gh/mario2077/YSLINK@main/yingshi-juhe-v1.0.0.zip"
     }
   ]
 }
