@@ -1,0 +1,23 @@
+{
+  "id": "duoxian-yingshi",
+  "name": "多线影视",
+  "version": "1.0.0",
+  "description": "爱看机器人全网聚合 · 单片 30+ 线路 · 自动挑可用线路",
+  "runtime": "js",
+  "api": 1,
+  "adult": false,
+  "baseUrl": "https://www.ikanbot.com",
+  "noHostRotation": true,
+  "hosts": [
+    "ikanbot.com",
+    "www.ikanbot.com",
+    "www1.ikanbot.com"
+  ],
+  "hostSuffixes": [
+    "ikanbot.com"
+  ],
+  "capabilities": [
+    "search",
+    "suggestions"
+  ]
+}

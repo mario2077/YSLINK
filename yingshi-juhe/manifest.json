@@ -1,0 +1,33 @@
+{
+  "id": "yingshi-jh",
+  "name": "影视聚合",
+  "version": "1.0.0",
+  "description": "全网影视 · 国产剧 · 综艺 · TVB · 美剧 · 动漫（多源兜底）",
+  "runtime": "js",
+  "api": 1,
+  "adult": false,
+  "group": "mainstream",
+  "groupName": "大众级",
+  "hosts": [
+    "360zy.com",
+    "caiji.moduapi.cc",
+    "api.wujinapi.com",
+    "api.apibdzy.com",
+    "api.guangsuapi.com",
+    "cj.ffzyapi.com",
+    "cj.lziapi.com",
+    "bfzyapi.com",
+    "jszyapi.com"
+  ],
+  "capabilities": [
+    "search",
+    "suggestions"
+  ],
+  "aliases": [
+    "影视聚合",
+    "yingshi-jh",
+    "全网影视"
+  ],
+  "baseUrl": "https://360zy.com",
+  "continuousFeed": true
+}

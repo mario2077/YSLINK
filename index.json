@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "modules": [
+    {
+      "id": "duoxian-yingshi",
+      "name": "多线影视",
+      "version": "1.0.0",
+      "description": "爱看机器人全网聚合，多线路可切换",
+      "api": 1,
+      "adult": false,
+      "repo": "",
+      "tag": "main",
+      "path": "duoxian-yingshi",
+      "zip": "duoxian-yingshi-v1.0.0.zip",
+      "updatedAt": "2026-11-25T12:50:29.054Z"
+    },
+    {
+      "id": "yingshi-juhe",
+      "name": "影视聚合",
+      "version": "1.0.0",
+      "description": "9 站采集互备：国产剧/综艺/TVB/美剧/动漫",
+      "api": 1,
+      "adult": false,
+      "repo": "",
+      "tag": "main",
+      "path": "yingshi-juhe",
+      "zip": "yingshi-juhe-v1.0.0.zip",
+      "updatedAt": "2026-11-25T12:50:29.054Z"
+    }
+  ]
+}
